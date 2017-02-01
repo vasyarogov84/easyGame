@@ -1,0 +1,35 @@
+
+#yellow {
+  width: 50px;
+  height: 50px;
+
+  margin: 5px 0px 5px 5px;
+  display: none;
+  }
+p {
+  margin: 5px 0px 0px 5px;
+}
+#final {
+  color: green;
+
+  margin-top: 200px;
+  margin-left: 500px;
+  text-decoration: solid;
+}
+
+#best {
+  color: green;
+}
+#worst {
+  color: red;
+}
+#over {
+  color: red;
+}
+.btn {
+  display: none;
+  margin-top: 200px;
+  margin-left: 500px;
+  text-align: center;
+  margin-left: 650px;
+}
